@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul Batra 👋
 
-A recent CS grad **passionate about building full-stack web apps 💻. Open to collaborating on projects!🤝**
+A CS grad **passionate about building full-stack web apps 💻. Open to collaborating on projects!🤝**
 
 
 <h3 align="left">Connect with me:</h3>
