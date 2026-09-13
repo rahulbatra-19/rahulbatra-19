@@ -1,6 +1,8 @@
-### Hi there, I'm Rahul Batra 👋
+# Hi, I'm Rahul Batra 👋
 
-A CS grad **passionate about building full-stack web apps 💻. Open to collaborating on projects!🤝**
+Full Stack Software Engineer building SaaS, integrations, and AI-powered applications.
+
+I enjoy taking products from idea to production — building across the frontend, backend, integrations, cloud infrastructure, and CI/CD.
 
 
 <h3 align="left">Connect with me:</h3>
