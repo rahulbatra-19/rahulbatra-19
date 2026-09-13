@@ -14,7 +14,7 @@ I enjoy taking products from idea to production — working across frontend, bac
 
 ### Featured Projects
 
-**[SheetSyncers](https://rahulbatra.vercel.app/)**  
+**[SheetSyncers](https://www.sheetsyncers.com)**  
 Integration platform for syncing business data with Google Sheets. Built and shipped end-to-end, including architecture, third-party integrations, AWS deployment, CI/CD, onboarding, and support. Acquired 300+ users.
 
 
